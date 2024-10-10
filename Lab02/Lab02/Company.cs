@@ -26,6 +26,7 @@ namespace Lab02
     {
         ScrumMaster,
         SoftwareEngineer,
+        HumanResources,
     }
 
     internal class Employee : Person
